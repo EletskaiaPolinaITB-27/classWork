@@ -13,9 +13,17 @@
 }
 
 .content {
-  background: #fff;
+  background: #d3c0e8;
   padding: 24px;
+  height: 200px;
   width: 320px;
   border-radius: 8px;
   text-align: center;
+}
+.closeBtn{
+    background-color: rgb(226, 43, 217);
+    color: aliceblue;
+    padding: 10px;
+    border-radius: 16px;
+    border: 1px solid grey;
 }
